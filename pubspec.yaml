@@ -1,9 +1,9 @@
-name: styles
+name: stylish
 description: A set of UI elements and patterns with rules and guidelines.
 version: 0.0.1
 
-homepage: https://G1Joshi.dev/docs/styles/about/
-repository: https://github.com/G1J0SHI/styles
+homepage: https://G1Joshi.dev/docs/stylish/about/
+repository: https://github.com/G1J0SHI/stylish
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

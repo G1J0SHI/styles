@@ -1,4 +1,4 @@
-# Styles for Dart/Flutter
+# Stylish for Dart/Flutter
 
 ![publisher][publisher]
 ![version][version]
@@ -12,8 +12,8 @@
 
 ---
 
-[publisher]: https://img.shields.io/pub/publisher/styles
-[version]: https://img.shields.io/pub/v/styles
-[likes]: https://img.shields.io/pub/likes/styles
-[points]: https://img.shields.io/pub/points/styles
-[popularity]: https://img.shields.io/pub/popularity/styles
+[publisher]: https://img.shields.io/pub/publisher/stylish
+[version]: https://img.shields.io/pub/v/stylish
+[likes]: https://img.shields.io/pub/likes/stylish
+[points]: https://img.shields.io/pub/points/stylish
+[popularity]: https://img.shields.io/pub/popularity/stylish
