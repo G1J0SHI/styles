@@ -15,7 +15,7 @@ migrate_working_dir/
 .idea/
 
 pubspec.lock
-**/doc/api/
+**/docs/
 .dart_tool/
 .packages
 build/
