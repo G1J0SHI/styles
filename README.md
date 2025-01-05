@@ -5,6 +5,7 @@
 ![likes][likes]
 ![points][points]
 ![popularity][popularity]
+![downloads][downloads]
 
 ---
 
@@ -72,3 +73,4 @@ Container(
 [likes]: https://img.shields.io/pub/likes/stylish
 [points]: https://img.shields.io/pub/points/stylish
 [popularity]: https://img.shields.io/pub/popularity/stylish
+[downloads]: https://img.shields.io/pub/dm/stylish
